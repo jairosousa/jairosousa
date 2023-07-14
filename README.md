@@ -27,3 +27,7 @@
       <img alt="aws" src="https://img.shields.io/badge/amazon%20aws-up?style=for-the-badge&logo=amazonaws&logoColor=%23fff&color=%23232F3E" />
       <img alt="amazonec2" src="https://img.shields.io/badge/amazon%20ec2-up?style=for-the-badge&logo=amazonec2&logoColor=%23fff&color=%23FF9900" />
 </div>
+
+### I love technologies, studious and looking for new challenges to grow in my career and share knowledge with other friends in the dev community.
+
+### E-mail: jaironsousa@gmail.com
