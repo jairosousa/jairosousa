@@ -12,6 +12,7 @@
 )](https://www.linkedin.com/in/jairo-nascimento-sousa/)
 
 ![Jairosousa's GitHub stats](https://github-readme-stats.vercel.app/api?username=jairosousa&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jairosousa)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Skill
 
