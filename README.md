@@ -8,6 +8,8 @@
 )](https://www.instagram.com/jnsousa/)
 [![Linkedin](https://img.shields.io/badge/linkedin-up?style=for-the-badge&logo=linkedin&logoColor=%23fff&color=%230A66C2
 )](https://www.linkedin.com/in/jairo-nascimento-sousa/)
+[![Microsoft Teams](https://img.shields.io/badge/Microsoft%20teams-up?style=for-the-badge&logo=microsoftteams&logoColor=%23fff&color=%236264A7
+)](https://www.linkedin.com/in/jairo-nascimento-sousa/)
 
 ![Jairosousa's GitHub stats](https://github-readme-stats.vercel.app/api?username=jairosousa&show_icons=true&theme=dracula)
 
