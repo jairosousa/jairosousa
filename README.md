@@ -1,4 +1,6 @@
-### Olá! Sou Jairo Nascimento de Sousa 🤚
+# ✨Olá! Sou Jairo Nascimento de Sousa 🤚
+
+## 🌐 Redes
 
 [![SITE](https://img.shields.io/badge/jairosousa.github.io-up-green?style=for-the-badge
 )](https://jairosousa.github.io/)
@@ -11,10 +13,23 @@
 [![Microsoft Teams](https://img.shields.io/badge/Microsoft%20teams-up?style=for-the-badge&logo=microsoftteams&logoColor=%23fff&color=%236264A7
 )](https://www.linkedin.com/in/jairo-nascimento-sousa/)
 
-![Jairosousa's GitHub stats](https://github-readme-stats.vercel.app/api?username=jairosousa&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jairosousa)](https://github.com/anuraghazra/github-readme-stats)
+# 📊 GitHub Stats
 
-### Skill
+<div style="display: flex; justify-content: space-between; flex-flow: row wrap; gap: 10x; ">
+
+<img alt="Jairosousa's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=jairosousa&show_icons=true&theme=dracula" width="320px" height="285px">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jairosousa&theme=dracula&hide_border=false"  width="340px" height="285px"/>
+
+<img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jairosousa&theme=dracula" width="320px" height="285px">
+
+
+</div>
+
+## 🚀 Expertise
+### Sou um entusiasta de tecnologia e desenvolvedor de software apaixonado. Com uma experiência diversificada em algumas linguagens de programação, incluindo Java, JavaScript, Python, Dart e TypeScript,tabem atuo como devolps utilizando principalmente a cloud AWS estou constantemente explorando novas maneiras de criar soluções inovadoras.
+
+## 💻 HABILIDADES
 
 <div style="display: flex; justify-content: space-between; flex-flow: row wrap; gap: 20x;">
       <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -31,6 +46,6 @@
       <img alt="orimetheu" src="https://img.shields.io/badge/Prometheus-000000?style=for-the-badge&logo=prometheus&labelColor=000000" />
 </div>
 
-###  Sou um entusiasta de tecnologia e desenvolvedor de software apaixonado. Com uma experiência diversificada em algumas linguagens de programação, incluindo Java, JavaScript, Python, Dart e TypeScript,tabem atuo como devolps utilizando principalmente a cloud AWS estou constantemente explorando novas maneiras de criar soluções inovadoras.
 
-### E-mail: jaironsousa@gmail.com
+
+## E-mail: jaironsousa@gmail.com
