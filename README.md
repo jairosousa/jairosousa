@@ -15,14 +15,13 @@
 
 # 📊 GitHub Stats
 
-<div style="display: flex; justify-content: space-between; flex-flow: row wrap; gap: 10x; ">
+<div style="display: flex; justify-content: space-between; flex-flow: row wrap; gap: 5x; ">
+
+<img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jairosousa&theme=dracula" width="320px" height="285px">
 
 <img alt="Jairosousa's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=jairosousa&show_icons=true&theme=dracula" width="320px" height="285px">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=jairosousa&theme=dracula&hide_border=false"  width="340px" height="285px"/>
-
-<img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jairosousa&theme=dracula" width="320px" height="285px">
-
 
 </div>
 
