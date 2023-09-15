@@ -1,4 +1,4 @@
-### Hi, my name is Jairo Nascimento 🤚
+### Olá! Sou Jairo Nascimento de Sousa 🤚
 
 [![SITE](https://img.shields.io/badge/jairosousa.github.io-up-green?style=for-the-badge
 )](https://jairosousa.github.io/)
@@ -27,8 +27,10 @@
       <img alt="python" src="https://img.shields.io/badge/python-up?style=for-the-badge&logo=python&logoColor=%23fff&color=%233776AB" />
       <img alt="aws" src="https://img.shields.io/badge/amazon%20aws-up?style=for-the-badge&logo=amazonaws&logoColor=%23fff&color=%23232F3E" />
       <img alt="amazonec2" src="https://img.shields.io/badge/amazon%20ec2-up?style=for-the-badge&logo=amazonec2&logoColor=%23fff&color=%23FF9900" />
+      <img alt="grafana" src="https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge&logo=grafana&logoColor=orange&labelColor=F2F4F9" />
+      <img alt="orimetheu" src="https://img.shields.io/badge/Prometheus-000000?style=for-the-badge&logo=prometheus&labelColor=000000" />
 </div>
 
-### I love technologies, studious and looking for new challenges to grow in my career and share knowledge with other friends in the dev community.
+###  Sou um entusiasta de tecnologia e desenvolvedor de software apaixonado. Com uma experiência diversificada em algumas linguagens de programação, incluindo Java, JavaScript, Python, Dart e TypeScript,tabem atuo como devolps utilizando principalmente a cloud AWS estou constantemente explorando novas maneiras de criar soluções inovadoras.
 
 ### E-mail: jaironsousa@gmail.com
