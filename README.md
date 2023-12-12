@@ -42,7 +42,7 @@
       <img alt="aws" src="https://img.shields.io/badge/amazon%20aws-up?style=for-the-badge&logo=amazonaws&logoColor=%23fff&color=%23232F3E" />
       <img alt="amazonec2" src="https://img.shields.io/badge/amazon%20ec2-up?style=for-the-badge&logo=amazonec2&logoColor=%23fff&color=%23FF9900" />
       <img alt="grafana" src="https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge&logo=grafana&logoColor=orange&labelColor=F2F4F9" />
-      <img alt="orimetheu" src="https://img.shields.io/badge/Prometheus-000000?style=for-the-badge&logo=prometheus&labelColor=000000" />
+      <img alt="prometheu" src="https://img.shields.io/badge/Prometheus-000000?style=for-the-badge&logo=prometheus&labelColor=000000" />
 </div>
 
 
