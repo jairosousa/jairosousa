@@ -13,17 +13,17 @@
 [![Microsoft Teams](https://img.shields.io/badge/Microsoft%20teams-up?style=for-the-badge&logo=microsoftteams&logoColor=%23fff&color=%236264A7
 )](https://www.linkedin.com/in/jairo-nascimento-sousa/)
 
-<h2 align="left">📈 Stats</h2>
+# 📊 GitHub Stats
 
-###
+<div style="display: flex; justify-content: space-between; flex-flow: row wrap; gap: 5x; ">
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=jairosousa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=react&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jairosousa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jairosousa&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+<img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jairosousa&theme=dracula" width="320px" height="285px">
+
+<img alt="Jairosousa's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=jairosousa&show_icons=true&theme=dracula" width="320px" height="285px">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jairosousa&theme=dracula&hide_border=false"  width="340px" height="285px"/>
+
 </div>
-
-###
 
 ## 🚀 Expertise
 ### Sou um entusiasta de tecnologia e desenvolvedor de software apaixonado. Com uma experiência diversificada em algumas linguagens de programação, incluindo Java, JavaScript, Python, Dart e TypeScript,tambem atuo como devolps utilizando principalmente a cloud AWS estou constantemente explorando novas maneiras de criar soluções inovadoras.
