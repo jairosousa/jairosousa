@@ -26,7 +26,7 @@
 ###
 
 ## 🚀 Expertise
-### Sou um entusiasta de tecnologia e desenvolvedor de software apaixonado. Com uma experiência diversificada em algumas linguagens de programação, incluindo Java, JavaScript, Python, Dart e TypeScript,tambem atuo como devolps utilizando principalmente a cloud AWS estou constantemente explorando novas maneiras de criar soluções inovadoras.
+### Desenvolvedor de software com experiência em linguagens como Java, JavaScript, Python, Dart e TypeScript. Atuo também como DevOps, com foco em automação, integração e entrega contínua, utilizando principalmente serviços em nuvem AWS. Apaixonado por tecnologia e inovação, busco constantemente aplicar boas práticas de engenharia de software, arquiteturas escaláveis e soluções modernas. Tenho interesse em microsserviços, APIs REST, conteinerização (Docker/Kubernetes) e práticas ágeis para desenvolvimento de sistemas robustos e eficientes.
 
 ## 💻 HABILIDADES
 
